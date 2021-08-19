@@ -1,4 +1,4 @@
-![banner.jpg](images/logo.png)
+![logo](https://youthonderzoek.nl/wp-content/uploads/sites/169/2019/10/UU_Youth_logo_RGB.png)
 
 # Face Viewing task for functional MRI
 
